@@ -42,7 +42,7 @@ body {
 .small {
     height: 480px;
     width: 390px;
-    background-image: url(media/Frame1.png);
+    background-image: url(/media/Frame2.jpg);
     background-position: center center;
     border-radius: 40px;
     text-align: center;
